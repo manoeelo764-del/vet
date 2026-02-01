@@ -1,0 +1,16 @@
+[
+  [
+    "734eeb45befdaf3a78eccb638666408df1008076c96a65b60b024f4a5931cd75",
+    {
+      "key": "VET-khaled-5E5F0011CC327299",
+      "customerId": "khaled",
+      "type": "production",
+      "created": "2026-01-22T21:55:03.746Z",
+      "expirationDate": "2027-03-23T21:55:03.746Z",
+      "validityDays": 425,
+      "deviceFingerprint": null,
+      "usageCount": 0,
+      "isActive": true
+    }
+  ]
+]
